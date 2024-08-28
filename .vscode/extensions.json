@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "cardinal90.multi-cursor-case-preserve",
+    "yoavbls.pretty-ts-errors",
+    "esbenp.prettier-vscode",
+    "dexxiez.shadcn-color-preview",
+    "bradlc.vscode-tailwindcss",
+    "vscode-icons-team.vscode-icons",
+    "ambar.bundle-size"
+  ]
+}
